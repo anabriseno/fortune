@@ -1,13 +1,20 @@
 .jumbotron {
-color:#fff;
-font-size:48px
-font-weight:bold
-font-family:'Shift', sans-serif;
+color:#black;
+text-align: center;
 }
 
-.body{
-  color: orange;
+.form-group {
+  text-align: center;
 }
+
+.button {
+  text-align: center;
+}
+
+#fortune-answer {
+  display: none;
+}
+
 
 input[type=checkbox] {
          position: relative;
